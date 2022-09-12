@@ -1,5 +1,5 @@
 #include<stdio.h>
-/*Uses puts function to print out strings*/
+/* Uses puts function to print out strings */
 int main(void)
 {
 
